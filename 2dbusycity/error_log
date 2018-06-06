@@ -1,0 +1,12 @@
+[25-Apr-2015 12:10:26 America/Denver] PHP Warning:  include_once(../tp/TinyPass.php): failed to open stream: No such file or directory in /home6/alldepth/public_html/lessons/s/fq983hiu1/index.php on line 63
+[25-Apr-2015 12:10:26 America/Denver] PHP Warning:  include_once(): Failed opening '../tp/TinyPass.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home6/alldepth/public_html/lessons/s/fq983hiu1/index.php on line 63
+[25-Apr-2015 12:10:26 America/Denver] PHP Fatal error:  Class 'TinyPass' not found in /home6/alldepth/public_html/lessons/s/fq983hiu1/index.php on line 66
+[25-Apr-2015 12:10:41 America/Denver] PHP Warning:  include_once(../tp/TinyPass.php): failed to open stream: No such file or directory in /home6/alldepth/public_html/lessons/s/fq983hiu1/index.php on line 63
+[25-Apr-2015 12:10:41 America/Denver] PHP Warning:  include_once(): Failed opening '../tp/TinyPass.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home6/alldepth/public_html/lessons/s/fq983hiu1/index.php on line 63
+[25-Apr-2015 12:10:41 America/Denver] PHP Fatal error:  Class 'TinyPass' not found in /home6/alldepth/public_html/lessons/s/fq983hiu1/index.php on line 66
+[25-Apr-2015 12:14:10 America/Denver] PHP Warning:  include_once(/tp/TinyPass.php): failed to open stream: No such file or directory in /home6/alldepth/public_html/lessons/s/fq983hiu1/index.php on line 63
+[25-Apr-2015 12:14:10 America/Denver] PHP Warning:  include_once(): Failed opening '/tp/TinyPass.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home6/alldepth/public_html/lessons/s/fq983hiu1/index.php on line 63
+[25-Apr-2015 12:14:10 America/Denver] PHP Fatal error:  Class 'TinyPass' not found in /home6/alldepth/public_html/lessons/s/fq983hiu1/index.php on line 66
+[25-Apr-2015 12:15:07 America/Denver] PHP Warning:  include_once(/tp/TinyPass.php): failed to open stream: No such file or directory in /home6/alldepth/public_html/lessons/s/fq983hiu1/index.php on line 63
+[25-Apr-2015 12:15:07 America/Denver] PHP Warning:  include_once(): Failed opening '/tp/TinyPass.php' for inclusion (include_path='.:/usr/php/54/usr/lib64:/usr/php/54/usr/share/pear') in /home6/alldepth/public_html/lessons/s/fq983hiu1/index.php on line 63
+[25-Apr-2015 12:15:07 America/Denver] PHP Fatal error:  Class 'TinyPass' not found in /home6/alldepth/public_html/lessons/s/fq983hiu1/index.php on line 66
