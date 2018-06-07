@@ -16,15 +16,14 @@ extract($_GET);
         <!-- CSS -->
         <link href='//fonts.googleapis.com/css?family=Cabin:400,700' rel='stylesheet' type='text/css'>
 
-        <link rel="stylesheet" href="assets/bootstrap/css/bootstrap.min.css">
-        <link rel="stylesheet" href="assets/font-awesome/css/font-awesome.min.css">
-        <link rel="stylesheet" href="assets/css/animate.css">
-        <link rel="stylesheet" href="assets/css/magnific-popup.css">
-        <link rel="stylesheet" href="assets/ultimate-flat-social-icons/ultm-css/ultm.css">
-        <link rel="stylesheet" href="assets/css/form-elements.css">
-        <link rel="stylesheet" href="assets/css/buttons.css">
-        <link rel="stylesheet" href="assets/css/style.css">
-        <link rel="stylesheet" href="assets/css/media-queries.css">
+        <link rel="stylesheet" href="assets/css/app.css">
+
+        <!-- Favicon and touch icons -->
+        <link rel="shortcut icon" href="assets/ico/favicon.png">
+        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/ico/apple-touch-icon-144-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/ico/apple-touch-icon-114-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/ico/apple-touch-icon-72-precomposed.png">
+        <link rel="apple-touch-icon-precomposed" href="assets/ico/apple-touch-icon-57-precomposed.png">        
 
         <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
         <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
@@ -33,38 +32,9 @@ extract($_GET);
             <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
         <![endif]-->
 
-        <!-- Favicon and touch icons -->
-        <link rel="shortcut icon" href="assets/ico/favicon.png">
-        <link rel="apple-touch-icon-precomposed" sizes="144x144" href="assets/ico/apple-touch-icon-144-precomposed.png">
-        <link rel="apple-touch-icon-precomposed" sizes="114x114" href="assets/ico/apple-touch-icon-114-precomposed.png">
-        <link rel="apple-touch-icon-precomposed" sizes="72x72" href="assets/ico/apple-touch-icon-72-precomposed.png">
-        <link rel="apple-touch-icon-precomposed" href="assets/ico/apple-touch-icon-57-precomposed.png">
-
-        <!-- Javascript -->
-        <script data-cfasync="false" type="text/javascript" src="https://code.tinypass.com/tinypass.js"></script>
-        <script src="assets/js/jquery-1.10.2.min.js"></script>
-        <script src="assets/js/jquery.backstretch.min.js"></script>
-        <script src="assets/js/wow.min.js"></script>
-        <script src="assets/js/retina-1.1.0.min.js"></script>
-        <script src="assets/js/jquery.magnific-popup.min.js"></script>
-        <script src="assets/js/scripts.js"></script>
-
         <!--[if lt IE 10]>
         <script src="assets/js/placeholder.js"></script>
-        <![endif]-->
-
-        <!-- Tinypass -->
-        <script type="text/javascript">
-            window._tpm = window._tpm || [];
-            window._tpm['paywallID'] = '25875543';
-            window._tpm['trackPageview'] = true;
-            window._tpm['onCheckoutSuccess'] = function(){_kmq.push(['record', 'Purchased']);};
-        </script>
-        <!-- End Tinypass -->
-
-        <!-- Optimizely -->
-        <script src="https://cdn.optimizely.com/js/5999751563.js"></script>
-
+        <![endif]-->        
     </head>
 
     <body>
@@ -121,14 +91,6 @@ extract($_GET);
             }
         ?>
 
-        <!-- Bind pretty buttons to default Tinypass buttons -->
-        <script type="text/javascript">
-            $(function(){
-                $("#buy-button").click(function(){
-                    $("#tp_button_PW_25875543").click();
-                });
-            });
-        </script>
         <!-- Top menu -->
         <nav>
             <a class="scroll-link" href="#top-content">Top</a>
@@ -563,6 +525,32 @@ extract($_GET);
                 </div>
             </div>
         </footer>
+
+        <!-- Javascript -->
+        <script data-cfasync="false" type="text/javascript" src="https://code.tinypass.com/tinypass.js"></script>
+        <script src="assets/js/app.js"></script>
+
+        <!-- Tinypass -->
+        <script type="text/javascript">
+            window._tpm = window._tpm || [];
+            window._tpm['paywallID'] = '25875543';
+            window._tpm['trackPageview'] = true;
+            window._tpm['onCheckoutSuccess'] = function(){_kmq.push(['record', 'Purchased']);};
+        </script>
+        <!-- End Tinypass -->
+
+        <!-- Bind pretty buttons to default Tinypass buttons -->
+        <script type="text/javascript">
+            $(function(){
+                $("#buy-button").click(function(){
+                    $("#tp_button_PW_25875543").click();
+                });
+            });
+        </script>        
+
+        <!-- Optimizely -->
+        <script src="https://cdn.optimizely.com/js/5999751563.js"></script>
+
         <!-- Tinypass loads after DOM loads -->
         <script type="text/javascript">
         function downloadJSAtOnload() {
