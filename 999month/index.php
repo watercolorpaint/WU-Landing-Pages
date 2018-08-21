@@ -121,7 +121,7 @@ extract($_GET);
                             <div class="logo">
                                 <h1>Sale Activated…</h1>
                             </div>
-                            <h2 class="hero">Here's your special offer to access all <?php echo $vclasses; ?> video classes instantly for <?php echo $access_in; ?>! Save $<?php echo $save; ?>!</h2>
+                            <h2 class="hero">Here's your special offer to access all <?php echo $vclasses; ?> video classes instantly for $<?php echo $unlock_in; ?>! Save $<?php echo $save; ?>!</h2>
                             <div class="top-button">
                                 <a id="buy-button" class="button-1" href="javascript:void(0);" onclick="$mcGoal.processEvent('Started WU Membership Purchase');">Buy Now - Unlock <?php echo $vclasses; ?> Classes</a>
                             </div>
@@ -137,7 +137,7 @@ extract($_GET);
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 features section-description wow fadeIn">
-                        <h2>Are we nuts? "Pay only <?php echo $access_in; ?> instead of the regular price of $<?php echo $reg_price; ?>?"</h2>
+                        <h2>Are we nuts? "Pay only $<?php echo $unlock_in; ?> instead of the regular price of $<?php echo $reg_price; ?>?"</h2>
                         <p>Yes, we're taking a big risk by slashing so much off our regular price…that's why we're only emailing it to select people like you! Remember, your purchase is protected by our 100% Satisfaction Guarantee: love it or your money back, no questions asked! You may ask, "What's the catch?" No catch. No hidden fees. We bet you'll love our online classes so much you'll stay a member after your 1st month and let your membership auto-renew for $34.99 per month (that's still 65% off the regular price of $<?php echo $reg_price; ?> per month, every month!). Get all this when you pay $<?php echo $unlock_in; ?> to unlock <?php echo $vclasses; ?> video classes for your 1st month (that's 34 cents a day), all taught by our award-winning watercolorists…</p>
                     </div>
                 </div>
@@ -302,9 +302,9 @@ extract($_GET);
                             <span><i class="fa fa-plus"></i></span>
                             <div class="single-faq-text">
                          <ol>
-                                                <li>Our Easy-Refund Guarantee makes us work harder to please customers. If you’re not satisfied for whatever reason, we’ll refund your money hassle-free. We know some bad guys will take advantage of our policy to get free lessons. Thankfully, our happy customers more than compensate for freeloaders.</li>
-                                                <li>We’re always working on bringing you new videos. Videos take time, especially watercolor videos. Even the best artists don’t paint everything perfectly the first time (especially on camera), which means we need to shoot again and again. We’ve been adding 2-4 new video classes each month on average.</li>
-                                                <li>Our customer care team always responds promptly and politely. We hate being mistreated by so-called “customer service” just as much as you do.</li>
+                            <li>Our Easy-Refund Guarantee makes us work harder to please customers. If you’re not satisfied for whatever reason, we’ll refund your money hassle-free. We know some bad guys will take advantage of our policy to get free lessons. Thankfully, our happy customers more than compensate for freeloaders.</li>
+                            <li>We’re always working on bringing you new videos. Videos take time, especially watercolor videos. Even the best artists don’t paint everything perfectly the first time (especially on camera), which means we need to shoot again and again. We’ve been adding 2-4 new video classes each month on average.</li>
+                            <li>Our customer care team always responds promptly and politely. We hate being mistreated by so-called “customer service” just as much as you do.</li>
                           </ol>
                             </div>
                         </div>
@@ -396,7 +396,7 @@ extract($_GET);
                     <div class="col-sm-12 screenshots section-description wow fadeIn">
                         <h2>Some examples of what you'll paint</h2>
                         <p>
-                            Follow along and paint these scenes from start to finish. Many more scenes available. We only had room to show 9 of <?php echo $rooms; ?> here.
+                            Follow along and paint these scenes from start to finish. Many more scenes available. We only had room to show 9 of <?php echo $vclasses; ?> here.
                         </p>
                     </div>
                 </div>
