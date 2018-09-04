@@ -68,7 +68,7 @@ extract($_GET);
                 //Access denied! Proceed with the next steps and display a Tinypass button...
                 $resource = new TPResource($rid, "Watercolor Video Classes", "http://lessons.watercolorpainting.com/class-list/");
                 //$po1 = new TPPriceOption("6.99", "7 days");
-                $po2 = new TPPriceOption("[1 | 1 week | 1] [34.99 | monthly | *]");
+                $po2 = new TPPriceOption("[3 | 1 week | 1] [34.99 | monthly | *]");
                 //$po3 = new TPPriceOption("89.99", "30 days");
                 //$offer1 = new TPOffer($resource, $po1);
                 $offer2 = new TPOffer($resource, $po2);
