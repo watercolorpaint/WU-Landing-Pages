@@ -137,7 +137,7 @@ extract($_GET);
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12 features section-description wow fadeIn">
-                        <h2>Are we nuts? "$<?php echo $unlock_in; ?> worth of watercolor classes for free?"</h2>
+                        <h2>Are we nuts? "$<?php echo $price; ?> worth of watercolor classes for free?"</h2>
                         <p>Yes, we're taking a big risk by giving you everything for free…that's why we're only emailing this to select people like you! Remember, you're also protected by our 100% Satisfaction Guarantee: love it or your money back, no questions asked! You may ask, "What's the catch?" No catch. No hidden fees. We bet you'll love our online classes so much you'll stay a member after your 1st week and let your membership auto-renew for $34.99 per month (that's still 65% off the regular price of $<?php echo $price; ?> per month, every month!). Your payment information is collected upon sign-up but you aren't charged during your 1st 7 days. Here's what you get when you sign up to unlock <?php echo $vclasses; ?> video classes for your 1st week, all taught by our award-winning watercolorists…</p>
                     </div>
                 </div>
@@ -312,7 +312,7 @@ extract($_GET);
                             <h3>How does payment work and what happens when I sign up?</h3>
                             <span><i class="fa fa-plus"></i></span>
                             <div class="single-faq-text">
-                          <p>We collect your payment information but we don't charge you upon sign-up! We accept nearly every payment option: VISA, Mastercard, American Express, Discover, PayPal, Amazon Payments, Bitcoin and Dwolla. After signing up, you can immediately begin watching every Watercolor University video class for <?php echo str_replace('-',' ', $access_for); ?>, no restrictions. After your <?php echo str_replace('-',' ', $access_for); ?>, your membership auto-renews at $34.99 per month (which is 65% off our regular $<?php echo $unlock_in; ?> per month price) and you will be charged. Self-cancel anytime by logging in or contacting us at webmaster@watercolorpainting.com.</p>
+                          <p>We collect your payment information but we don't charge you upon sign-up! We accept nearly every payment option: VISA, Mastercard, American Express, Discover, PayPal, Amazon Payments, Bitcoin and Dwolla. After signing up, you can immediately begin watching every Watercolor University video class for <?php echo str_replace('-',' ', $access_for); ?>, no restrictions. After your <?php echo str_replace('-',' ', $access_for); ?>, your membership auto-renews at $34.99 per month (which is 65% off our regular $<?php echo $price; ?> per month price) and you will be charged. Self-cancel anytime by logging in or contacting us at webmaster@watercolorpainting.com.</p>
                             </div>
                         </div>
                         <div class="single-faq">
