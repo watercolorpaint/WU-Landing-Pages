@@ -119,7 +119,7 @@ extract($_GET);
                         </div>
                         <div class="col-sm-6 text wow fadeInUp">
                             <div class="logo">
-                                <h1>Sale Activated…</h1>
+                                <h1>Now Activated…</h1>
                             </div>
                             <h2 class="hero">Here's your special offer to access all <?php echo $vclasses; ?> video classes instantly for free! Save $<?php echo $save; ?>!</h2>
                             <div class="top-button">
