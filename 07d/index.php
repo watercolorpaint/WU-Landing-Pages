@@ -113,9 +113,9 @@ extract($_GET);
                     <div class="row">
                         <div class="col-sm-6 video wow fadeInLeft">
                             <div class="embed-responsive embed-responsive-16by9">
-                                            <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/oS-e9G39S1I?autoplay=1&amp;rel=0&amp;showinfo=0&amp;wmode=opaque" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen=""></iframe>
+                                            <iframe class="embed-responsive-item" src="https://www.youtube-nocookie.com/embed/<?php echo $youtube; ?>?autoplay=1&amp;rel=0&amp;showinfo=0&amp;wmode=opaque" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen=""></iframe>
                             </div>
-                            <p style="font-size: 16px;"><strong>A video tour of Watercolor University</strong></p>
+                            <p style="font-size: 16px;"><strong>See for yourself: how Watercolor University works</strong></p>
                         </div>
                         <div class="col-sm-6 text wow fadeInUp">
                             <div class="logo">
