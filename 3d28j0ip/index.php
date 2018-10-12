@@ -559,8 +559,12 @@
 	            <div class="row">
 	                <div class="col-sm-12 about-us section-description wow fadeIn">
 	                    <h2>Sample class list</h2>
-                        <strong>Recreate the famous "sickly hues" of painting legend, Degas</strong>
-                        <p>Study alongside the masters of art with our award-winning instructor, William "Bill" Dunn! Bill breaks down the essence of Degas' <i>L'Absinthe</i> and shows how to use watercolor to capture the same sickly hues that Degas used in this controversial yet famous oil painting.</p>
+                        <h3>Recreate the famous "sickly hues" of painting legend, Degas</h3>
+                        <p>Use watercolor to capture the same sickly hues that this famous, controversial painter used in his famous oil painting <i>L'Absinthe</i>, featuring a Parisian café.</p>
+                        <h3>Paint water lilies like Monet</h3>
+                        <p>Capture the legendary Impressionist's vivid colors in this tutorial featuring Monet's famous <i>Red Water-Lilies</i>.</p>
+                        <h3>Paint a cityscape like Diebenkorn</h3>
+                        <p>Copy Diebenkorn's abstract <i>Cityscape I</i> oil painting using watercolor. Our award-winning instructor shows you how to do an abstract painting without breaking a sweat.</p>
                         <h2>About us</h2>
 	                    <p>
 	                    	Since 1999, WatercolorPainting.com has become the go-to site for watercolor tutorials, attracting millions from all over. Watercolor University by WatercolorPainting.com introduces video classes for the first time. Each video is painstakingly created over 2-4 weeks. Imagine painting live on camera. One mistake and you'll have to start over. Even our award-winning artists aren't immune to pressure, which means one video may be shot over and over again to get everything right. All the time, energy and skill put into all these videos are now available for the price of gas traveling to and from a local class. New videos are constantly being developed, so students will enjoy new classes as they're completed. Think of Watercolor University as a never-ending watercolor workshop in the comfort of your own home. Students include busy professionals, retirees, parents, youth, art teachers and artists.
