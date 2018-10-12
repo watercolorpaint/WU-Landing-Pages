@@ -559,11 +559,11 @@
 	            <div class="row">
 	                <div class="col-sm-12 about-us section-description wow fadeIn">
 	                    <h2>Sample class list</h2>
-                        <h3>Recreate the famous "sickly hues" of painting legend, Degas</h3>
+                        <h3><u>Recreate the famous "sickly hues" of painting legend, Degas</u></h3>
                         <p>Use watercolor to capture the same sickly hues that this famous, controversial painter used in his famous oil painting <i>L'Absinthe</i>, featuring a Parisian café.</p>
-                        <h3>Paint water lilies like Monet</h3>
+                        <h3><u>Paint water lilies like Monet</u></h3>
                         <p>Capture the legendary Impressionist's vivid colors in this tutorial featuring Monet's famous <i>Red Water-Lilies</i>.</p>
-                        <h3>Paint a cityscape like Diebenkorn</h3>
+                        <h3><u>Paint a cityscape like Diebenkorn</u></h3>
                         <p>Copy Diebenkorn's abstract <i>Cityscape I</i> oil painting using watercolor. Our award-winning instructor shows you how to do an abstract painting without breaking a sweat.</p>
                         <h2>About us</h2>
 	                    <p>
