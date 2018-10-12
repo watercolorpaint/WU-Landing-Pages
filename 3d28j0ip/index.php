@@ -558,7 +558,10 @@
 	        <div class="container">
 	            <div class="row">
 	                <div class="col-sm-12 about-us section-description wow fadeIn">
-	                    <h2>About us</h2>
+	                    <h2>Sample class list</h2>
+                        <strong>Recreate the famous "sickly hues" of painting legend, Degas</strong>
+                        <p>Study alongside the masters of art with our award-winning instructor, William "Bill" Dunn! Bill breaks down the essence of Degas' <i>L'Absinthe</i> and shows how to use watercolor to capture the same sickly hues that Degas used in this controversial yet famous oil painting.</p>
+                        <h2>About us</h2>
 	                    <p>
 	                    	Since 1999, WatercolorPainting.com has become the go-to site for watercolor tutorials, attracting millions from all over. Watercolor University by WatercolorPainting.com introduces video classes for the first time. Each video is painstakingly created over 2-4 weeks. Imagine painting live on camera. One mistake and you'll have to start over. Even our award-winning artists aren't immune to pressure, which means one video may be shot over and over again to get everything right. All the time, energy and skill put into all these videos are now available for the price of gas traveling to and from a local class. New videos are constantly being developed, so students will enjoy new classes as they're completed. Think of Watercolor University as a never-ending watercolor workshop in the comfort of your own home. Students include busy professionals, retirees, parents, youth, art teachers and artists.
 	                    </p>
