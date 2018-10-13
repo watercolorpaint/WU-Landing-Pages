@@ -584,6 +584,10 @@
                         <p>Capture Tokyo’s vibrant night-time cityscape and learn how to use watercolor’s unique transparency to make your painting glow through the darkness.</p>
                         <h3><u>Recreate the famous "sickly hues" of painting legend, Degas</u></h3>
                         <p>Use watercolor to capture the same sickly hues that this famous, controversial painter used in his famous oil painting <i>L'Absinthe</i>, featuring a Parisian café.</p>
+                        <!-- divider -->
+                        <p>&nbsp;</p>
+                        <div class="divider-1">~</div>
+                        <p>&nbsp;</p>
                         <h2>About us</h2>
 	                    <p>
 	                    	Since 1999, WatercolorPainting.com has become the go-to site for watercolor tutorials, attracting millions from all over. Watercolor University by WatercolorPainting.com introduces video classes for the first time. Each video is painstakingly created over 2-4 weeks. Imagine painting live on camera. One mistake and you'll have to start over. Even our award-winning artists aren't immune to pressure, which means one video may be shot over and over again to get everything right. All the time, energy and skill put into all these videos are now available for the price of gas traveling to and from a local class. New videos are constantly being developed, so students will enjoy new classes as they're completed. Think of Watercolor University as a never-ending watercolor workshop in the comfort of your own home. Students include busy professionals, retirees, parents, youth, art teachers and artists.
