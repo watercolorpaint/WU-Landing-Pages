@@ -17,10 +17,9 @@
           window.dataLayer = window.dataLayer || [];
           function gtag(){dataLayer.push(arguments);}
           gtag('js', new Date());
-
-          gtag('config', 'UA-4770605-1');
+          
           //Adding Google Optimize plug-in
-          ga('require', 'GTM-W873PBK');
+          gtag('config', 'UA-4770605-1', { 'optimize_id': 'GTM-W873PBK'});
         </script>
 
         <!-- End Google Analytics -->
@@ -547,43 +546,45 @@
 	        <div class="container">
 	            <div class="row">
 	                <div class="col-sm-12 about-us section-description wow fadeIn">
-	                    <h2>Sample beginner classes</h2>
-                        <h3><u>Mixing colors like a pro</u></h3>
-                        <p>The kind of watercolor paints and palette to get, how to avoid mixing mud, how to prepare your paints before mixing anything, and even how to pick up paint with your brush.</p>
-                        <h3><u>How to use masking fluid</u></h3>
-                        <p>Have you ever wanted to paint detailed negative shapes? Look no further, this is all about masking fluid (a.k.a. liquid frisket): what it is, the different types, how to use it, and all its pros and cons.</p>
-                        <h3><u>How to travel with watercolor supplies</u></h3>
-                        <p>Tips for packing your expensive art supplies so they don't break while you're on-the-go.</p>
-                        <h3><u>Everything to know about color theory</u></h3>
-                        <p>Use the color wheel properly to create color schemes like an award-winning painter.</p>
-                        <h3><u>Essential color &amp; brush concepts</u></h3>
-                        <p>Everything a beginner needs to know to get different shades of the same color, and how to use that to get the right "values" for any painting.</p>
-                        <h3><u>Paint consistencies: what they are and why they matter</u></h3>
-                        <p>Control water like a pro to get 4 (or more!) different consistencies out of each tube of watercolor paint.</p>
-                        <h3><u>Underwater exotic fish</u></h3>
-                        <p>Even getting the basics right can lead to an amazing painting! Learn how to master the wet-in-wet watercolor technique while painting a pair of exotic fish at the same time.</p>
-                        <h2>Sample intermediate classes</h2>
-                        <h3><u>Classic human figure</u></h3>
-                        <p>The basics of human form using common watercolor techniques. Build confidence measuring proportions and using light and shadow to accurately show the human body.</p>
-                        <h3><u>Soothing vineyards</u></h3>
-                        <p>A charming watercolor landscape of the fanmous vineyards in California's Napa Valley.</p>
-                        <h3><u>Bald eagle portrait</u></h3>
-                        <p>Paint this feathery, majestic bird to learn how to paint all sorts of bird-like portraits.</p>
-                        <h3><u>Close-up lilies</u></h3>
-                        <p>You too can paint those classic close-ups of flowers by following these steps.</p>
-                        <h3><u>Fix bad scenery</u></h3>
-                        <p>Stuck with a bad reference photo? Here's how to turn it around. See how an award-winning painter adjusts the composition to paint a boatyard from a bad photo.</p>
-                        <h2>Sample advanced classes</h2>
-                        <h3><u>Paint water lilies like Monet</u></h3>
-                        <p>Capture the legendary Impressionist's vivid colors in this tutorial featuring Monet's famous <i>Red Water-Lilies</i>.</p>
-                        <h3><u>Paint a cityscape like Diebenkorn</u></h3>
-                        <p>Copy Diebenkorn's abstract <i>Cityscape I</i> oil painting using watercolor. Our award-winning instructor shows you how to do an abstract painting without breaking a sweat.</p>
-                        <h3><u>Busy Chinatown cityscape</u></h3>
-                        <p>Paint in perspective and get a cool “tunneling effect.” Features a lively cityscape of the famous Chinatown in San Francisco.</p>
-                        <h3><u>Neon Tokyo nightscape</u></h3>
-                        <p>Capture Tokyo’s vibrant night-time cityscape and learn how to use watercolor’s unique transparency to make your painting glow through the darkness.</p>
-                        <h3><u>Recreate the famous "sickly hues" of painting legend, Degas</u></h3>
-                        <p>Use watercolor to capture the same sickly hues that this famous, controversial painter used in his famous oil painting <i>L'Absinthe</i>, featuring a Parisian café.</p>
+                        <div id="samples">   
+                            <h2>Sample beginner classes</h2>
+                            <h3><u>Mixing colors like a pro</u></h3>
+                            <p>The kind of watercolor paints and palette to get, how to avoid mixing mud, how to prepare your paints before mixing anything, and even how to pick up paint with your brush.</p>
+                            <h3><u>How to use masking fluid</u></h3>
+                            <p>Have you ever wanted to paint detailed negative shapes? Look no further, this is all about masking fluid (a.k.a. liquid frisket): what it is, the different types, how to use it, and all its pros and cons.</p>
+                            <h3><u>How to travel with watercolor supplies</u></h3>
+                            <p>Tips for packing your expensive art supplies so they don't break while you're on-the-go.</p>
+                            <h3><u>Everything to know about color theory</u></h3>
+                            <p>Use the color wheel properly to create color schemes like an award-winning painter.</p>
+                            <h3><u>Essential color &amp; brush concepts</u></h3>
+                            <p>Everything a beginner needs to know to get different shades of the same color, and how to use that to get the right "values" for any painting.</p>
+                            <h3><u>Paint consistencies: what they are and why they matter</u></h3>
+                            <p>Control water like a pro to get 4 (or more!) different consistencies out of each tube of watercolor paint.</p>
+                            <h3><u>Underwater exotic fish</u></h3>
+                            <p>Even getting the basics right can lead to an amazing painting! Learn how to master the wet-in-wet watercolor technique while painting a pair of exotic fish at the same time.</p>
+                            <h2>Sample intermediate classes</h2>
+                            <h3><u>Classic human figure</u></h3>
+                            <p>The basics of human form using common watercolor techniques. Build confidence measuring proportions and using light and shadow to accurately show the human body.</p>
+                            <h3><u>Soothing vineyards</u></h3>
+                            <p>A charming watercolor landscape of the fanmous vineyards in California's Napa Valley.</p>
+                            <h3><u>Bald eagle portrait</u></h3>
+                            <p>Paint this feathery, majestic bird to learn how to paint all sorts of bird-like portraits.</p>
+                            <h3><u>Close-up lilies</u></h3>
+                            <p>You too can paint those classic close-ups of flowers by following these steps.</p>
+                            <h3><u>Fix bad scenery</u></h3>
+                            <p>Stuck with a bad reference photo? Here's how to turn it around. See how an award-winning painter adjusts the composition to paint a boatyard from a bad photo.</p>
+                            <h2>Sample advanced classes</h2>
+                            <h3><u>Paint water lilies like Monet</u></h3>
+                            <p>Capture the legendary Impressionist's vivid colors in this tutorial featuring Monet's famous <i>Red Water-Lilies</i>.</p>
+                            <h3><u>Paint a cityscape like Diebenkorn</u></h3>
+                            <p>Copy Diebenkorn's abstract <i>Cityscape I</i> oil painting using watercolor. Our award-winning instructor shows you how to do an abstract painting without breaking a sweat.</p>
+                            <h3><u>Busy Chinatown cityscape</u></h3>
+                            <p>Paint in perspective and get a cool “tunneling effect.” Features a lively cityscape of the famous Chinatown in San Francisco.</p>
+                            <h3><u>Neon Tokyo nightscape</u></h3>
+                            <p>Capture Tokyo’s vibrant night-time cityscape and learn how to use watercolor’s unique transparency to make your painting glow through the darkness.</p>
+                            <h3><u>Recreate the famous "sickly hues" of painting legend, Degas</u></h3>
+                            <p>Use watercolor to capture the same sickly hues that this famous, controversial painter used in his famous oil painting <i>L'Absinthe</i>, featuring a Parisian café.</p>
+                        </div>
                         <!-- divider -->
                         <p>&nbsp;</p>
                         <div class="divider-1">~</div>
