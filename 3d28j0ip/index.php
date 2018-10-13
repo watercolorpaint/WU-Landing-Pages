@@ -493,45 +493,34 @@
 
         <!-- Testimonials -->
         <div class="testimonials-container section-container">
-	        <div class="container">
-	            <div class="row">
-	                <div class="col-sm-12 testimonials section-description wow fadeIn">
-	                    <h2>Real testimonials from real students</h2>
-	                    <div class="testimonial-active"></div>
-	                    <div class="testimonial-quote">&ldquo; &rdquo;</div>
-	                    <div class="testimonial-single">
-	                    	<p>
-	                    		I'm currently taking a local class and have learned nothing compared to the video tutorials I've watched on your site. THANK YOU for taking the time to video and share! Love it!
-	                    		<br>
-	                    		<span class="student">Maria, Watercolor University student</span>
-	                    	</p>
-	                    	<div class="testimonial-single-image">
-	                    		<img src="assets/img/testimonials/1.jpg" alt="" data-at2x="assets/img/testimonials/1.jpg">
-	                    	</div>
-	                    </div>
-	                    <div class="testimonial-single">
-	                    	<p>
-	                    		I can't tell you how happy I am that I decided to try your instructional videos. You are an exceptional teacher.  have never seen any tutorial in any medium that describes the painting process the way you do. You leave nothing out. You explain what artists, and beginning artists, need to hear.
-	                    		<br>
-	                    		<span class="student">Isabelle, Watercolor University student</span>
-	                    	</p>
-	                    	<div class="testimonial-single-image">
-	                    		<img src="assets/img/testimonials/2.jpg" alt="" data-at2x="assets/img/testimonials/2.jpg">
-	                    	</div>
-	                    </div>
-	                    <div class="testimonial-single">
-	                    	<p>
-	                    		Wow, I want to say how perfectly amazing the instructor here is first off. Second, from this one video I have watched, she could teach ANYONE! If I feel confident enough to paint a still life bunch of flowers just from watching her do so in this lesson, anyone could. Point is, she's incredible at TEACHING.
-	                    		<br>
-	                    		<span class="student">Jeanine, Watercolor University student</span>
-	                    	</p>
-	                    	<div class="testimonial-single-image">
-	                    		<img src="assets/img/testimonials/3.jpg" alt="" data-at2x="assets/img/testimonials/3.jpg">
-	                    	</div>
-	                    </div>
-	                </div>
-	            </div>
-	        </div>
+            <div class="container">
+                <div class="row">
+                    <div class="col-sm-12 testimonials section-description wow fadeIn">
+                        <h2>Real testimonials from real students</h2>
+                        <p>
+                            I'm currently taking a local class and have learned nothing compared to the video tutorials I've watched on your site. THANK YOU for taking the time to video and share! Love it!
+                            <br>
+                            <span class="student">Maria, Watercolor University student</span>
+                        </p>
+                        <div class="testimonial-quote">&ldquo; &rdquo;</div>
+                        <img src="assets/img/testimonials/1.jpg" alt="" data-at2x="assets/img/testimonials/1.jpg">
+                        <p>
+                            I can't tell you how happy I am that I decided to try your instructional videos. You are an exceptional teacher.  have never seen any tutorial in any medium that describes the painting process the way you do. You leave nothing out. You explain what artists, and beginning artists, need to hear.
+                            <br>
+                            <span class="student">Isabelle, Watercolor University student</span>
+                        </p>
+                        <div class="testimonial-quote">&ldquo; &rdquo;</div>
+                        <img src="assets/img/testimonials/2.jpg" alt="" data-at2x="assets/img/testimonials/2.jpg">
+                        <p>
+                            Wow, I want to say how perfectly amazing the instructor here is first off. Second, from this one video I have watched, she could teach ANYONE! If I feel confident enough to paint a still life bunch of flowers just from watching her do so in this lesson, anyone could. Point is, she's incredible at TEACHING.
+                            <br>
+                            <span class="student">Jeanine, Watercolor University student</span>
+                        </p>
+                        <div class="testimonial-quote">&ldquo; &rdquo;</div>
+                        <img src="assets/img/testimonials/3.jpg" alt="" data-at2x="assets/img/testimonials/3.jpg">
+                    </div>
+                </div>
+            </div>
         </div>
 
         <!-- Call to action -->
