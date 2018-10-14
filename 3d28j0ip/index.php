@@ -530,7 +530,10 @@
 	        <div class="container">
 	            <div class="row">
 	                <div class="col-sm-12 call-to-action section-description wow fadeIn">
-	                    <h2>Why wait? Get started now</h2>
+	                    <h2>Why free videos can cost you dearly…</h2>
+                        <p>While there are free videos on the Internet, many come from amateur artists. You get what you pay for—we only pay award-winning artists to teach on-camera for you. Some of our artists also teach at major art schools like the Academy Of Art in San Francisco.</p>
+                        <p>So it's your choice: do you want to waste many hours watching amateur videos, copying amateur techniques? Or do you want to pay for quality teachers and put money in working artists' pockets?</p>
+                        <h2>So why wait? Get started now</h2>
 	                    <p>
 	                    	No risk because you're protected by our 100% Satisfaction Guarantee: love it or your money back, no questions asked! Cancel anytime. Easy-Refund Policy.
 	                    </p>
