@@ -111,7 +111,7 @@
                 //Access denied! Proceed with the next steps and display a Tinypass button...
                 $resource = new TPResource($rid, "Watercolor Video Classes", "http://lessons.watercolorpainting.com/class-list/");
                 //$po1 = new TPPriceOption("6.99", "7 days");
-                $po2 = new TPPriceOption("[2.99 | 1 week | 1] [34.99 | monthly | *]");
+                $po2 = new TPPriceOption("[2.99 | 1 week | 1] [59.99 | monthly | *]");
                 //$po3 = new TPPriceOption("89.99", "30 days");
                 //$offer1 = new TPOffer($resource, $po1);
                 $offer2 = new TPOffer($resource, $po2);
@@ -172,11 +172,11 @@
                         	<div class="logo">
                         		<h1>OK, Read This…</h1>
                         	</div>
-                            <h2 class="hero">Your 3-day course is being processed &amp; we'll email it to you in 3 days. Hate waiting? Here's a 1-TIME OFFER to access all 80 video classes instantly for $2.99!</h2>
+                            <h2 class="hero">Your 3-day course is being processed &amp; we'll email it to you in 3 days. Hate waiting? Here's a 1-TIME OFFER to access all 81 video classes instantly for $2.99!</h2>
                             <div class="top-button">
-                                <a id="buy-button" class="button-1" href="javascript:void(0);" onclick="$mcGoal.processEvent('Started WU Membership Purchase');">Pay $2.99 - Unlock 80 Classes</a>
+                                <a id="buy-button" class="button-1" href="javascript:void(0);" onclick="$mcGoal.processEvent('Started WU Membership Purchase');">Pay $2.99 - Unlock 81 Classes</a>
                             </div>
-                            <span style="font-size: 16px;"><strong>Videos worth $99.99! Sign-up form should pop up on click<br />For 24/7 customer service, call (888) 881-2542</strong></span>
+                            <span style="font-size: 16px;"><strong>Videos worth $149.99! Sign-up form should pop up on click<br />For 24/7 customer service, call (888) 881-2542</strong></span>
                         </div>
                     </div>
                 </div>
@@ -188,8 +188,8 @@
 	        <div class="container">
 	            <div class="row">
 	                <div class="col-sm-12 features section-description wow fadeIn">
-	                    <h2>Are we nuts? "Pay $2.99 for $99.99 worth of watercolor classes?"</h2>
-	                    <p>Yes, we're taking a big risk with this offer…that's why we're only presenting it once! Remember, your purchase is protected by our 100% Satisfaction Guarantee: love it or your money back, no questions asked! You may ask, "What's the catch?" No catch. No hidden fees. We bet you'll love our online classes so much you'll stay a member after 7 days and let your membership auto-renew for $34.99 per month (that's 65% off the regular price of $99.99 per month!). Here's what you get when you spend $2.99 to unlock 80 video classes for 7 days, all taught by our award-winning watercolorists…</p>
+	                    <h2>Are we nuts? "Pay $2.99 for $149.99 worth of watercolor classes?"</h2>
+	                    <p>Yes, we're taking a big risk with this offer…that's why we're only presenting it once! Remember, your purchase is protected by our 100% Satisfaction Guarantee: love it or your money back, no questions asked! You may ask, "What's the catch?" No catch. No hidden fees. We bet you'll love our online classes so much you'll stay a member after 7 days and let your membership auto-renew for $59.99 per month (that's 60% off the regular price of $149.99 per month!). Here's what you get when you spend $2.99 to unlock 80 video classes for 7 days, all taught by our award-winning watercolorists…</p>
 	                </div>
 	            </div>
 	            <div class="row">
@@ -197,7 +197,7 @@
 	                	<div class="features-box-icon">
 	                		<i class="fa fa-eye"></i>
 	                	</div>
-	                    <h3>80+ Hours Of Video</h3>
+	                    <h3>81+ Hours Of Video</h3>
 	                    <p>All videos on the Watercolor University website unlock so you can play, pause and paint along. Reference photos, initial sketches and list of materials included for relevant classes.</p>
                     </div>
                     <div class="col-sm-4 features-box wow fadeInDown">
@@ -223,7 +223,7 @@
 	        <div class="container">
 	            <div class="row">
 	                <div class="col-sm-12 single-feature section-description wow fadeIn">
-	                    <h2>We're Watercolor University: a dead-simple website packed with 80+ hours of video classes</h2>
+	                    <h2>We're Watercolor University: a dead-simple website packed with 81+ hours of video classes</h2>
 	                    <p>Just 1 click to browse a list of all video classes or browse by these categories: beginner classes, technique classes &amp; step-by-step classes.</p>
 	                </div>
 	            </div>
@@ -261,7 +261,7 @@
                     <div class="col-sm-12 features section-table wow fadeIn" style="margin-top:60px;margin-bottom:30px;">
                         <h2 style="color:#333; margin-bottom:40px;">Why pick our classes over alternatives?</h2>
                         <!-- start CompareNinja table -->
-                        <div id="compareNinjaTable_101762"><div id="tableWrapper" style="width: 100%;"><table id="vsTable_101762"><tbody class=""><tr class=""><td class="cat title" style="width: 20%;"></td><td class="title" style="width: 20%;"><div class="">Our Online Classes</div></td><td class="title" style="width: 20%;"><div class="">Books</div></td><td class="title" style="width: 20%;"><div class="">DVDs</div></td><td class="title" style="width: 20%;"><div class="">Local Classes</div></td></tr><tr class="second"><td class="cat" style="width: 20%;"><div class="" style="font-size:16px;">Convenience</div></td><td style="width: 20%; background-color: rgb(175, 222, 177);" class="text"><div><p><span style="font-size: 16px; color: #000000;">80 push-button classes on your smartphone, tablet, computer</span></p></div></td><td style="width: 20%;" class="text"><div><p><span style="font-size: 16px;">Lug stacks of bulky books around</span></p></div></td><td style="width: 20%;" class="text"><div><p><span style="font-size: 16px;">Chained to where your TV is</span></p></div></td><td style="width: 20%;" class="text"><div><p><span style="font-size: 16px;">Strict schedule. Strict location</span></p></div></td></tr><tr><td class="cat" style="width: 20%;"><div class="" style="font-size:16px;">Purchase Protection</div></td><td style="width: 20%; background-color: rgb(175, 222, 177);" class="text"><div><p><span style="font-size: 16px; color: #000000;">Money back if you aren't 100% satisfied. Just email "refund" to us</span></p></div></td><td style="width: 20%;" class="text"><div><p><span style="font-size: 16px;">Maybe there's a return policy. Then there's the hassle of returning</span></p></div></td><td style="width: 20%;" class="text"><div><p><span style="font-size: 16px;">Good luck getting a refund after breaking the seal</span></p></div></td><td style="width: 20%;" class="text"><div><p><span style="font-size: 16px;">No guarantees even if you argue for a refund</span></p></div></td></tr><tr class="second"><td class="cat" style="width: 20%;"><div class="" style="font-size:16px;">Ease Of Use</div></td><td style="width: 20%; background-color: rgb(175, 222, 177);" class="text"><div><p><span style="font-size: 16px; color: #000000;">As easy as signing in to your email</span></p></div></td><td style="width: 20%;" class="text"><div><p><span style="font-size: 16px;">As rigid as following a recipe book</span></p></div></td><td style="width: 20%;" class="text"><div><p><span style="font-size: 16px;">Wrangle with your remote control to pause, forward &amp; rewind</span></p></div></td><td style="width: 20%;" class="text"><div><p><span style="font-size: 16px;">The class won't wait for you</span></p></div></td></tr><tr><td class="cat" style="width: 20%;"><div class="" style="font-size:16px;">Learning Style</div></td><td style="width: 20%; background-color: rgb(175, 222, 177);" class="text"><div><p><span style="font-size: 16px; color: #000000;">Video, text &amp; pictures. You control the pace</span></p></div></td><td style="width: 20%;" class="text"><div><p><span style="font-size: 16px;">Only text &amp; pictures. You control the pace</span></p></div></td><td style="width: 20%;" class="text"><div><p><span style="font-size: 16px;">Only video. You control the pace</span></p></div></td><td style="width: 20%;" class="text"><div><p><span style="font-size: 16px;">Fight for the teacher's attention or get left behind</span></p></div></td></tr><tr class="second"><td class="cat" style="width: 20%;"><div class="" style="font-size:16px;">Teacher Quality</div></td><td style="width: 20%; background-color: rgb(175, 222, 177);" class="text"><div><p><span style="font-size: 16px; color: #000000;">All teachers are award-winning painters</span></p></div></td><td style="width: 20%;" class="text"><div><p><span style="font-size: 16px;">Depends</span></p></div></td><td style="width: 20%;" class="text"><div><p><span style="font-size: 16px;">Depends</span></p></div></td><td style="width: 20%;" class="text"><div><p><span style="font-size: 16px;">Probably someone who did art school</span></p></div></td></tr><tr><td class="cat" style="width: 20%;"><div class="" style="font-size:16px;">Price</div></td><td style="width: 20%; background-color: rgb(175, 222, 177);" class="text"><div><p><span style="font-size: 16px; color: #000000;">$2.99 today</span></p></div></td><td style="width: 20%;" class="text"><div><p><span style="font-size: 16px;">$20-$50 per book</span></p></div></td><td style="width: 20%;" class="text"><div><p><span style="font-size: 16px;">$30-$60 per DVD</span></p></div></td><td style="width: 20%;" class="text"><div><p><span style="font-size: 16px;">$150-$500 per series of classes</span></p></div></td></tr></tbody></table></div></div>
+                        <div id="compareNinjaTable_101762"><div id="tableWrapper" style="width: 100%;"><table id="vsTable_101762"><tbody class=""><tr class=""><td class="cat title" style="width: 20%;"></td><td class="title" style="width: 20%;"><div class="">Our Online Classes</div></td><td class="title" style="width: 20%;"><div class="">Books</div></td><td class="title" style="width: 20%;"><div class="">DVDs</div></td><td class="title" style="width: 20%;"><div class="">Local Classes</div></td></tr><tr class="second"><td class="cat" style="width: 20%;"><div class="" style="font-size:16px;">Convenience</div></td><td style="width: 20%; background-color: rgb(175, 222, 177);" class="text"><div><p><span style="font-size: 16px; color: #000000;">81 push-button classes on your smartphone, tablet, computer</span></p></div></td><td style="width: 20%;" class="text"><div><p><span style="font-size: 16px;">Lug stacks of bulky books around</span></p></div></td><td style="width: 20%;" class="text"><div><p><span style="font-size: 16px;">Chained to where your TV is</span></p></div></td><td style="width: 20%;" class="text"><div><p><span style="font-size: 16px;">Strict schedule. Strict location</span></p></div></td></tr><tr><td class="cat" style="width: 20%;"><div class="" style="font-size:16px;">Purchase Protection</div></td><td style="width: 20%; background-color: rgb(175, 222, 177);" class="text"><div><p><span style="font-size: 16px; color: #000000;">Money back if you aren't 100% satisfied. Just email "refund" to us</span></p></div></td><td style="width: 20%;" class="text"><div><p><span style="font-size: 16px;">Maybe there's a return policy. Then there's the hassle of returning</span></p></div></td><td style="width: 20%;" class="text"><div><p><span style="font-size: 16px;">Good luck getting a refund after breaking the seal</span></p></div></td><td style="width: 20%;" class="text"><div><p><span style="font-size: 16px;">No guarantees even if you argue for a refund</span></p></div></td></tr><tr class="second"><td class="cat" style="width: 20%;"><div class="" style="font-size:16px;">Ease Of Use</div></td><td style="width: 20%; background-color: rgb(175, 222, 177);" class="text"><div><p><span style="font-size: 16px; color: #000000;">As easy as signing in to your email</span></p></div></td><td style="width: 20%;" class="text"><div><p><span style="font-size: 16px;">As rigid as following a recipe book</span></p></div></td><td style="width: 20%;" class="text"><div><p><span style="font-size: 16px;">Wrangle with your remote control to pause, forward &amp; rewind</span></p></div></td><td style="width: 20%;" class="text"><div><p><span style="font-size: 16px;">The class won't wait for you</span></p></div></td></tr><tr><td class="cat" style="width: 20%;"><div class="" style="font-size:16px;">Learning Style</div></td><td style="width: 20%; background-color: rgb(175, 222, 177);" class="text"><div><p><span style="font-size: 16px; color: #000000;">Video, text &amp; pictures. You control the pace</span></p></div></td><td style="width: 20%;" class="text"><div><p><span style="font-size: 16px;">Only text &amp; pictures. You control the pace</span></p></div></td><td style="width: 20%;" class="text"><div><p><span style="font-size: 16px;">Only video. You control the pace</span></p></div></td><td style="width: 20%;" class="text"><div><p><span style="font-size: 16px;">Fight for the teacher's attention or get left behind</span></p></div></td></tr><tr class="second"><td class="cat" style="width: 20%;"><div class="" style="font-size:16px;">Teacher Quality</div></td><td style="width: 20%; background-color: rgb(175, 222, 177);" class="text"><div><p><span style="font-size: 16px; color: #000000;">All teachers are award-winning painters</span></p></div></td><td style="width: 20%;" class="text"><div><p><span style="font-size: 16px;">Depends</span></p></div></td><td style="width: 20%;" class="text"><div><p><span style="font-size: 16px;">Depends</span></p></div></td><td style="width: 20%;" class="text"><div><p><span style="font-size: 16px;">Probably someone who did art school</span></p></div></td></tr><tr><td class="cat" style="width: 20%;"><div class="" style="font-size:16px;">Price</div></td><td style="width: 20%; background-color: rgb(175, 222, 177);" class="text"><div><p><span style="font-size: 16px; color: #000000;">$2.99 today</span></p></div></td><td style="width: 20%;" class="text"><div><p><span style="font-size: 16px;">$20-$50 per book</span></p></div></td><td style="width: 20%;" class="text"><div><p><span style="font-size: 16px;">$30-$60 per DVD</span></p></div></td><td style="width: 20%;" class="text"><div><p><span style="font-size: 16px;">$150-$500 per series of classes</span></p></div></td></tr></tbody></table></div></div>
                         <script type="text/javascript">
                             (function() {
                                 var cn = document.createElement('script'); cn.type = 'text/javascript';
@@ -363,7 +363,7 @@
 	                    	<h3>How does payment work and what happens when I buy a membership?</h3>
 	                    	<span><i class="fa fa-plus"></i></span>
 	                    	<div class="single-faq-text">
-		                  <p>We accept nearly every payment option: VISA, Mastercard, American Express, Discover, PayPal, Amazon Payments, Bitcoin and Dwolla. After buying a membership, you can immediately begin watching every Watercolor University video class. You’ll also receive a purchase confirmation email from Tinypass, our payments system. Paying $2.99 gives you unlimited views of all video classes for 7 days, starting from the time you make your 1-time payment. After your first 7 days, your membership auto-renews at $34.99 per month. Cancel anytime by logging in or contacting us at webmaster@watercolorpainting.com.</p>
+		                  <p>We accept nearly every payment option: VISA, Mastercard, American Express, Discover, PayPal, Amazon Payments, Bitcoin and Dwolla. After buying a membership, you can immediately begin watching every Watercolor University video class. You’ll also receive a purchase confirmation email from Tinypass, our payments system. Paying $2.99 gives you unlimited views of all video classes for 7 days, starting from the time you make your 1-time payment. After your first 7 days, your membership auto-renews at $59.99 per month. Cancel anytime by logging in or contacting us at webmaster@watercolorpainting.com.</p>
 	                    	</div>
 	                    </div>
 	                    <div class="single-faq">
@@ -447,7 +447,7 @@
 	                <div class="col-sm-12 screenshots section-description wow fadeIn">
 	                    <h2>Some examples of what you'll paint</h2>
 	                    <p>
-	                    	Follow along and paint these scenes from start to finish. Many more scenes available. We only had room to show 9 out of 80 here.
+	                    	Follow along and paint these scenes from start to finish. Many more scenes available. We only had room to show 9 out of 81 here.
 	                    </p>
 	                </div>
 	            </div>
@@ -606,7 +606,7 @@
 	        <div class="container">
 	            <div class="row">
                             <div class="col-sm-7 footer-copyright">
-                            	&copy; Copyright 1999-2017. WatercolorPainting.com
+                            	&copy; Copyright 1999-2019. WatercolorPainting.com
                             </div>
 	            </div>
 	        </div>
@@ -634,26 +634,21 @@
         '//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
         })(window,document,'script','dataLayer','GTM-TBZKNS');</script>
         <!-- End Google Tag Manager -->
-        <!-- begin olark code -->
-        <script data-cfasync="false" type='text/javascript'>/*<![CDATA[*/window.olark||(function(c){var f=window,d=document,l=f.location.protocol=="https:"?"https:":"http:",z=c.name,r="load";var nt=function(){
-        f[z]=function(){
-        (a.s=a.s||[]).push(arguments)};var a=f[z]._={
-        },q=c.methods.length;while(q--){(function(n){f[z][n]=function(){
-        f[z]("call",n,arguments)}})(c.methods[q])}a.l=c.loader;a.i=nt;a.p={
-        0:+new Date};a.P=function(u){
-        a.p[u]=new Date-a.p[0]};function s(){
-        a.P(r);f[z](r)}f.addEventListener?f.addEventListener(r,s,false):f.attachEvent("on"+r,s);var ld=function(){function p(hd){
-        hd="head";return["<",hd,"></",hd,"><",i,' onl' + 'oad="var d=',g,";d.getElementsByTagName('head')[0].",j,"(d.",h,"('script')).",k,"='",l,"//",a.l,"'",'"',"></",i,">"].join("")}var i="body",m=d[i];if(!m){
-        return setTimeout(ld,100)}a.P(1);var j="appendChild",h="createElement",k="src",n=d[h]("div"),v=n[j](d[h](z)),b=d[h]("iframe"),g="document",e="domain",o;n.style.display="none";m.insertBefore(n,m.firstChild).id=z;b.frameBorder="0";b.id=z+"-loader";if(/MSIE[ ]+6/.test(navigator.userAgent)){
-        b.src="javascript:false"}b.allowTransparency="true";v[j](b);try{
-        b.contentWindow[g].open()}catch(w){
-        c[e]=d[e];o="javascript:var d="+g+".open();d.domain='"+d.domain+"';";b[k]=o+"void(0);"}try{
-        var t=b.contentWindow[g];t.write(p());t.close()}catch(x){
-        b[k]=o+'d.write("'+p().replace(/"/g,String.fromCharCode(92)+'"')+'");d.close();'}a.P(2)};ld()};nt()})({
-        loader: "static.olark.com/jsclient/loader0.js",name:"olark",methods:["configure","extend","declare","identify"]});
-        /* custom configuration goes here (www.olark.com/documentation) */
-        olark.identify('6321-445-10-3331');/*]]>*/</script><noscript><a href="https://www.olark.com/site/6321-445-10-3331/contact" title="Contact us" target="_blank">Questions? Feedback?</a> powered by <a href="http://www.olark.com?welcome" title="Olark live chat software">Olark live chat software</a></noscript>
-        <!-- end olark code -->
+        <!-- Start of LiveChat (www.livechatinc.com) code -->
+        <script type="text/javascript">
+          window.__lc = window.__lc || {};
+          window.__lc.license = 10850597;
+          (function() {
+            var lc = document.createElement('script'); lc.type = 'text/javascript'; lc.async = true;
+            lc.src = ('https:' == document.location.protocol ? 'https://' : 'http://') + 'cdn.livechatinc.com/tracking.js';
+            var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(lc, s);
+          })();
+        </script>
+        <noscript>
+        <a href="https://www.livechatinc.com/chat-with/10850597/" rel="nofollow">Chat with us</a>,
+        powered by <a href="https://www.livechatinc.com/?welcome" rel="noopener nofollow" target="_blank">LiveChat</a>
+        </noscript>
+        <!-- End of LiveChat code -->
     </body>
 
 </html>
